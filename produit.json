@@ -1,0 +1,20 @@
+[
+  {
+    "nom": "Parfum Dior Sauvage",
+    "prix": "70 000 FCFA",
+    "description": "Eau de parfum fraîche et boisée.",
+    "image": "blob:https://web.whatsapp.com/6a19384d-38c6-462c-ab1b-657363d139c5"
+  },
+  {
+    "nom": "Montre Rolex",
+    "prix": "1 500 000 FCFA",
+    "description": "Montre de luxe en acier inoxydable.",
+    "image": "blob:https://web.whatsapp.com/e0daa9ff-63e7-4c9d-ae1c-25571842fc28"
+  },
+  {
+    "nom": "Sac Louis Vuitton",
+    "prix": "500 000 FCFA",
+    "description": "Sac à main en cuir authentique.",
+    "image": "blob:https://web.whatsapp.com/7254b07f-2a1b-4dd8-9f3a-81b7118b3f27"
+  }
+]
